@@ -36,11 +36,17 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 ## 🏗️ Project Structure
 
 Sign-Language_Learning-Platform/
+
 ├── main.py
+
 ├── quiz_database.py
+
 ├── daily_challenges.py
+
 ├── camera_manager.py
+
 ├── requirements.txt
+
 └── venv/
 
 
